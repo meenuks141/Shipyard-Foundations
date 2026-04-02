@@ -1,6 +1,6 @@
 # CI/CD Assignment Submission
 
-Name: Meenu  
+Name: Meenu K S
 muid: meenuks@mulearn
 
 ## 🔗 Repository Link  
